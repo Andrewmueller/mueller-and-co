@@ -17,8 +17,8 @@ title: Mueller and Company
 email: andrew@muellerandrew.com
 description: >- # this means to ignore newlines until "baseurl:"
   A description
-baseurl: "/mueller-and-co" # the subpath of your site, e.g. /blog
-url: "https://andrewmueller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /mueller-and-co # the subpath of your site, e.g. /blog
+url: https://andrewmueller.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andrewmueller
 github_username:  andrewmueller
 
