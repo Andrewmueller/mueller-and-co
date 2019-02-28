@@ -25,6 +25,7 @@ github_username:  andrewmueller
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack@gem
 plugins:
   - jekyll-feed
   - jekyll-paginate
